@@ -3,15 +3,15 @@ import React, { useState } from "react";
 
 var emojiDictionary = {
   "😊": "smilling eyes",
-  " 🗿 ": "The Chad",
+  "🗿": "The Chad",
   "🔥": "you're on fire",
   "❤️": "love",
   "✨": "sparkle",
-  " 😋 ": "I see food",
-  " 🍕": "Pizzzzaa!!",
+  "😋": "I see food",
+  "🍕": "Pizzzzaa!!",
   "🤯": "Exploding Head",
-  "🤯 ": "Khushi ke anso!",
-  "🫘": "Spilling the beans!"
+  "🫶": "Heart Hands",
+  "🫘": "Spilling the beans!",
 };
 
 var emojiWeKnow = Object.keys(emojiDictionary);
