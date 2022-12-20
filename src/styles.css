@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.output {
+  padding-top: 1rem;
+  color: black;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+body {
+  background-color: yellow;
+}
+input {
+  padding: 0.5rem;
+}
+.emojiWeKnow {
+  color: black;
+  font-size: 1.5rem;
+  padding: 1rem 1rem;
+  cursor: pointer;
+  border-radius: 0.5rem;
+  border-spacing: 3rem;
+  border: solid 1px yellowgreen;
+  margin: auto;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+.h1 {
+  color: yellowgreen;
+  border-radius: 1rem;
+  border: solid yellow;
+}
+.h2 {
+  color: yellowgreen;
+}
